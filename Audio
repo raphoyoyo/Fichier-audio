@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Automatique</title>
+</head>
+<body>
+    <!-- Balise audio avec l'option autoplay pour lancer automatiquement -->
+    <audio autoplay>
+        <source src="https://drive.google.com/file/d/1eDsxPGf66UAv0jsfxBhPBv4Yx3ch32dD/view?usp=sharing" type="audio/mp3">
+        Votre navigateur ne supporte pas la lecture audio.
+    </audio>
+</body>
+</html>
